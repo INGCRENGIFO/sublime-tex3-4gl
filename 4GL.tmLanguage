@@ -29,7 +29,7 @@
 			<key>comment</key>
 			<string>A comment starting with '#'</string>
 			<key>match</key>
-			<string>(#|\-\-).*$</string>
+			<string>(#).*|(\--).*$</string>
 			<key>name</key>
 			<string>comment.number-sign.source.4GL</string>
 		</dict>

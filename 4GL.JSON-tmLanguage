@@ -12,8 +12,8 @@
   	},
     {
       "name": "comment.number-sign.source.4GL",
-      "match": "(#|\-\-).*$",
-      "comment": "A comment starting with '#'"
+      "match": "(#).*|(\--).*$",
+      "comment": "A comment starting with '-'"
     },
     {
       "name": "string.single.source.4GL",
