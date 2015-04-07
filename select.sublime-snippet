@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+select ${1:*}
+  from ${2:table}
+${5:where  ${2}.${4:atribute}}
+]]></content>
+	<tabTrigger>select</tabTrigger>
+	<scope>source.4GL</scope>
+</snippet>

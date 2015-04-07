@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+for ${1:variable} = ${2:value} to ${3:max}
+	${4}
+end for
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.4GL</scope>
+</snippet>

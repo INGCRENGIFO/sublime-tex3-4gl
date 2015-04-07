@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+create temp table ${1:table-temporary}(
+	${2:table} ${3:type}
+create unique  index u_${1} on ${1} (${2}) 
+]]></content>
+<tabTrigger>create</tabTrigger>
+<scope>source.4GL</scope>
+</snippet>

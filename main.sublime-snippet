@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+main
+	${1}
+end main
+]]></content>
+	<tabTrigger>main</tabTrigger>
+	<scope>source.4GL</scope>
+</snippet>

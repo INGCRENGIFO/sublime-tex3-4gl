@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+record
+	${1:variable}	${3:like ${2:table.atribute}}
+end record
+]]></content>
+	<tabTrigger>record</tabTrigger>
+	<scope>source.4GL</scope>
+</snippet>

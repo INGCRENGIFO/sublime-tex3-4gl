@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+call ${1:functionName} (${2:param}) ${3:returning ${4:var}}
+]]></content>
+	<tabTrigger>call</tabTrigger>
+	<scope>source.4GL</scope>
+</snippet>
